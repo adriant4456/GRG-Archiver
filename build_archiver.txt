@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "H:\GRG Archiver\env\Lib\site-packages\tkfilebrowser\images";tkfilebrowser\images "H:\GRG Archiver\archiver.py" --additional-hooks-dir "H:\GRG Archiver\Hooks"
